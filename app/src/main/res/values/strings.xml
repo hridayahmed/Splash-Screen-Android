@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MeertingAdda</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Activities</string>
+    <string name="title_notifications">Notice Board</string>
+    <string name="club_adcisor"></string>
+    <string name="title_advisor">Club Founder</string>
+    <string name="home_title">
+        Robotics Club is not just about building or assembling a robot, but designing, programming and modifying it to such extent that the robot would be able to overcome problems challenges given to it. This club builds the resilience of our scientific youth minds and gets them acquainted with real file engineering challenges and allows them the freedom of looking into creative solution for these issues. Best of all robotics provides a wholesome STEM (Science, Technology, Engineering and Math) equation which helps students prepare for the working word at a younger age which includes all the crazy ideas and whole load of fun!
+The purpose of this club is to form many creative teams who will work with creative ideas in several areas of engineering technology and convert those ideas into innovative products for market, as well as to compete in national and international level competition. This club will create opportunity to attain an in-depth academic as well as extracurricular experience involving science and technology.
+Our slogan: Think something unique. Work on something unique. Be unique.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

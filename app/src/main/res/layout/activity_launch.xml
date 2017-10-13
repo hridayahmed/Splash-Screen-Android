@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context="com.example.root.meertingadda.LaunchActivity">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/club"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please wait....."
+        android:textSize="19sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="90dp"/>
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_margin="100dp"
+        style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+        android:progressTint="@color/colorAccent"
+        android:progressBackgroundTint="#000"
+        android:id="@+id/progress"/>
+
+
+
+
+
+
+</LinearLayout>
